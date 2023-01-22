@@ -2,8 +2,7 @@
 
 <h2>I'm a Developer, Engineering Student, Writer and Athlete, from Brazil 🌎</h2>
 
-
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about ... anything
@@ -11,14 +10,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak English, Portuguese, some Spanish and a little German
 
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 ##
-
 ### You can find me at:
 <div> 
   <a href="https://www.instagram.com/miguelm_faria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mattar1704miguel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelmattar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+
+<br />
 
 ### Languages and Tools:
 <div style="display: inline_block;">
