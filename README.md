@@ -5,7 +5,7 @@
 
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about ... anything
 - 📫 How to reach me: mattar1704miguel@gmail.com
 - 😄 Pronouns: He/Him
