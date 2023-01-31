@@ -9,6 +9,7 @@
 - 📫 How to reach me: mattar1704miguel@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak English, Portuguese, some Spanish and a little German
+- 🇧🇷 You can find a portuguese version of this file at: https://github.com/miguelmmattar/miguelmmattar/blob/main/README-pt-br.md
 
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 ##
