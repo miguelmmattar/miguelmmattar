@@ -7,7 +7,7 @@
 - 🌱 No momento, estou estudando AWS
 - 💬 Pode perguntar sobre... qualquer coisa
 - 📫 Como falar comigo: mattar1704miguel@gmail.com
-- 😄 Pronmes: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidades: Falo Português, Inglês, algum Espanhol e um pouco de Alemão
 
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
