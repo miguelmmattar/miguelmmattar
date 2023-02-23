@@ -4,7 +4,7 @@
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- 🌱 No momento, estou estudando AWS
+- 🌱 No momento, estou estudando Java
 - 💬 Pode perguntar sobre... qualquer coisa
 - 📫 Como falar comigo: mattar1704miguel@gmail.com
 - 😄 Pronomes: Ele/Dele
