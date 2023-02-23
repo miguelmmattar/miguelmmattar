@@ -1,6 +1,6 @@
  <h3>Olá, sou o Miguel!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /></h3>
 
-<h2>Sou um Desenvolvedor, Estudante de Engenharia, Escritor e Atleta, do Brasil 🌎</h2>
+<h2>Sou um Desenvolvedor, Estudante de Engenharia e Atleta, do Brasil 🌎</h2>
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
