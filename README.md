@@ -2,7 +2,6 @@
 
 <h2>I'm a Developer, Engineering Student and Athlete, from Brazil 🌎</h2> 
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about ... anything
