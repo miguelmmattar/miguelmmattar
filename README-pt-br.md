@@ -2,15 +2,12 @@
 
 <h2>Sou um Desenvolvedor, Estudante de Engenharia e Atleta, do Brasil 🌎</h2>
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmmattar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 - 🌱 No momento, estou estudando Java
 - 💬 Pode perguntar sobre... qualquer coisa
 - 📫 Como falar comigo: mattar1704miguel@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidades: Falo Português, Inglês, algum Espanhol e um pouco de Alemão
 
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 ##
 ### Pode me encontrar em:
 <div> 
@@ -18,6 +15,9 @@
   <a href="https://www.linkedin.com/in/miguelmattar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<br />
+
+![STATUS](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br />
 
