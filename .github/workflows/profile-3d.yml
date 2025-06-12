@@ -18,6 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          VISIBILITY: all
       - name: Commit & Push
         run: |
           git config user.name github-actions
